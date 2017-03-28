@@ -1,0 +1,13 @@
+ Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad. Como ejemplo, examina PM2 https://github.com/Unitech/pm2 que sirve para administrar clústeres de NodeJS.
+
+Moment.js----Libreria de Javascript orientada a la gestión de fechas, con la que el manejo de variables temporales es mucho mas sencillo.
+
+Video.js-----El framework de referencia a la hora de gestionar videos a traves de Javascript.El API que soporta es muy completa y un gran número de empresas solidas apuesta por el.
+
+jQuery-----jQuery es la más utilizada de todas las librerías JavaScript. Posibilita la escritura de código jQuery en cualquier tipo de navegador. Ofrece distintas funciones:
+
+	-Selección sencilla de elementos para páginas web (parecidos a los selectores de CSS3)	
+	-Modificación de elementos para páginas web (posición, color, etc.)
+	-Implementación sencilla de animaciones y efectos
+
+

@@ -1,0 +1,21 @@
+Buscar información sobre las tareas o servicios web para los que se usan más los programas siguientes:
+- apache
+- nginx
+- thttpd
+- Cherokee
+- node.js
+
+apache:
+	Apache es usado principalmente para enviar paginas web estáticas y dinámicas en la (World Wide Web) y para muchas otras tareas donde el contenido necesita ser puesto a disposición de forma segura y confiable. Algunos de los sitios web mas grandes que trabajan con apache son, por ejemplo, la capa frontal (front-end) del motor de busqueda de Google y muchos proyectos de Wikimedia.
+
+nginx:
+	De acuerdo con un estudio, realizado en 2014, a manos de Netcraft, nginx es el segundo servidor web mas utilizado en dominios activos. Segun la página oficial de nginx , algunos de sus clientes son: globo ( servicio web de videos en streaming) , 3BetGaming ( una casa de apuestas) o Bluestem ( empresa de comercio electrónico) entre otros.
+
+thttpd:
+	Algunos de los sitios mas importantes, segun la web de thttpd, que corren sobre thttpd son: garfield.com (una tira cómica) , el principado de Sovereign de Sealand o el sitio web de Kmart, entre otros.
+
+Cherokee:
+	La principal ventaja por la cual una empresa o desarrollador podría optar por él, es que se podría usar como sistema embebido y que soporta complementos para aumentar sus prestaciones.
+
+node.js:
+	Se trata de un interprete de Javascript en el lado del servidor que tiene gran rendimiento y esta basado en eventos que compila y ejecuta a velocidades increibles, por lo que podría ser útil a la hora del desarrollo de aplicaciones.
